@@ -5,8 +5,11 @@ Realizei a criação de um avatar 2D em cartoon e transcrevi um texto para que e
 
 ## 🤖 Tecnologias Utilizadas
 CHATGPT - Criação de PROMPT PARA GERAR IMAGEM 2D CARTOON
+
 PICLUMEN - GERAÇÃO DE IMAGEM COM O PROMPT CRIADO NO CHATGPT
+
 AIFREEVIDEO - TRANSFORMAÇÃO DA IMAGEM CARTOON EM VÍDEO
+
 DREAMFACE - TRANSFORÇÃO DO TEXTO EM ÁUDIO E SINCRONIZAÇÃO COM O CARTOON GERADO
 
 ## 🧐 Processo de Criação
